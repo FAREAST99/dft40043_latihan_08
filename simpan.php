@@ -7,7 +7,15 @@
     <title>simpan</title>
 </head>
 <body>
-    <h3>Maklumat berjaya disimpan<h3>
-    
+    <h2>simpan.php</h2>
+
+    <h3>Maklumat berjaya disimpan</h3>
+
+    <p>
+        <a href="index.html">
+            KEMBALI
+        </a>
+    </p>
 </body>
+
 </html>
